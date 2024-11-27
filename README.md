@@ -1,8 +1,8 @@
 # CART 214 - Interactive Infographic with pictograms
 
-Made by Jack McDOnlad
+Made by Jack McDonald
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://mcbeaniee.github.io/214infographic/)
 
 ## Description
 
